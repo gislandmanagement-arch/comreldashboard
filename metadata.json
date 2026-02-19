@@ -1,0 +1,7 @@
+{
+  "name": "CommRel Pro Dashboard",
+  "description": "A sophisticated community relation management dashboard featuring sentiment analysis, grievance tracking, and engagement metrics, inspired by high-end sports coaching UIs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
